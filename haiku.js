@@ -14,10 +14,10 @@ function Haiku2(){
     console.log("REGEL3");
 }
 function Haiku3(){
-    console.log("haiku by:","AUTHOR");
-    console.log("REGEL1");
-    console.log("REGEL2");
-    console.log("REGEL3");
+    console.log("haiku by:","Milan");
+    console.log("From time to time The clouds give rest To the moon-beholders.");
+    console.log("Don’t weep, insects – Lovers, stars themselves, Must part.");
+    console.log("Sparrow's child out of the way, out of the way! the stallion's coming through");
 }
 
 
